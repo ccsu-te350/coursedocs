@@ -9,6 +9,7 @@
 **10/9/19:**
 
 * Slides on CSS: [https://docs.google.com/presentation/d/18XrV\_qpV9s-r\_txYVrjKniCBCFO0-cHBK8FwYTgCZys/edit?usp=sharing](https://docs.google.com/presentation/d/18XrV_qpV9s-r_txYVrjKniCBCFO0-cHBK8FwYTgCZys/edit?usp=sharing)
+* CSS Zen Garden: [http://www.csszengarden.com/214/ ](http://www.csszengarden.com/214/%20)
 
 **Tools:**
 
