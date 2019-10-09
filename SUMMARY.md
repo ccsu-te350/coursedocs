@@ -22,5 +22,5 @@
 * [Week 6 - Assignments](untitled.md)
 * [Week 7 - Class content](week-7-class-content.md)
 * [Week 7 - Assignment Exercise](week-7-assignment.md)
-* [Week 7 - Readings & Class Preparation for Week 8 & Midterms](week-7-readings-and-class-preparation-for-week-8-and-midterms.md)
+* [Week 7 - Readings & Class Preparation for Week 8 & Midterms](week-7-readings-class-preparation-for-week-8-and-midterms.md)
 
