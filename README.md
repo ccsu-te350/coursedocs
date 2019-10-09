@@ -52,7 +52,7 @@ description: >-
 
 [Week 7 - Class content](week-7-class-content.md)
 
-[Week 7 - Assignment](untitled-1.md)
+[Week 7 - Assignment](week-7-assignment.md)
 
 ## ccsuteched
 
