@@ -6,7 +6,7 @@
 
 Fork either your existing Week 6 homework OR the class organization’s css-practice repository \(see: [https://github.com/ccsu-te350/css-practice](https://github.com/ccsu-te350/css-practice)\). 
 
-For up to 5 regular credit points, due by 10/16/19 at class time, please do this & email me the address of your github repository. BTW, I will be validating the CSS and HTML this time, so ensure that you have done the same \(you can also get extra credits by demonstrating that you have done this through screenshots of this work added to your repo, see point \#2\):
+For up to 5 regular credit points, due by 10/16/19 at class time, please do this work, then commit it to your forked github repository, then email me the address of your github repository. BTW, I will be validating the CSS and HTML this time, so ensure that you have done the same \(you can also get extra credits by demonstrating that you have done this through screenshots of this work added to your repo, see point \#2\):
 
 1. Apply an external stylesheet
 2. Add an html comment above the external stylesheet reference, indicating that you know that the external stylesheet link’s code is below
