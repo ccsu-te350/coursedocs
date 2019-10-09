@@ -1,16 +1,22 @@
 # Week 7 - Class content
 
+**10/7/19:**
+
 * [Slides, 10/7/19 - Improving our HTML code - debugging](https://docs.google.com/presentation/d/1O6tUmWSASJBosDxJa4D88FpQVWN9ClslIYR4nLC753U/edit?usp=sharing)
 * References:
-
   * [https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction\_to\_HTML/Debugging\_HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
 
-* Tools:
-  * HTML Validator - [https://validator.w3.org/](https://validator.w3.org/)
-  * CSS Validator - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/)
-  * Accessibility Checker - [https://achecker.ca/checker/](https://achecker.ca/checker/)
+**10/9/19:**
 
-**Exercise on HTML debugging \(with git practice, too\):**
+* Slides on CSS: [https://docs.google.com/presentation/d/18XrV\_qpV9s-r\_txYVrjKniCBCFO0-cHBK8FwYTgCZys/edit?usp=sharing](https://docs.google.com/presentation/d/18XrV_qpV9s-r_txYVrjKniCBCFO0-cHBK8FwYTgCZys/edit?usp=sharing)
+
+**Tools:**
+
+* HTML Validator - [https://validator.w3.org/](https://validator.w3.org/)
+* CSS Validator - [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/)
+* Accessibility Checker - [https://achecker.ca/checker/](https://achecker.ca/checker/)
+
+**Exercise on HTML debugging \(with git practice, too\) - 10/7/19:**
 
 1. Fork this git repository to your own github account for debugging practice \([https://github.com/ccsu-te350/debugging-html](https://github.com/ccsu-te350/debugging-html)\)
 2. Use git to clone down the forked repository to a directory on your local machine
