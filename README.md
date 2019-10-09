@@ -52,6 +52,8 @@ description: >-
 
 [Week 7 - Class content](week-7-class-content.md)
 
+[Week 7 - Assignment](untitled-1.md)
+
 ## ccsuteched
 
 [![Join the chat at https://gitter.im/ccsuteched/community](https://badges.gitter.im/ccsuteched/community.svg)](https://gitter.im/ccsuteched/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
