@@ -1,4 +1,4 @@
-# Week 7 - Assignment
+# Week 7 - Assignment Exercise
 
 ## Wee**k 7: HTML/CSS - Going Deeper into CSS & Its Application to HTML** 
 
@@ -30,4 +30,6 @@ For up to 5 regular credit points, due by 10/16/19 at class time, please do this
 * find and copy the h1 style information used in the page at [https://www.ccsu.edu/teched/](https://www.ccsu.edu/teched/)
 
 \[Hint:  use of Dev Tools in browser, or view page source may help you identify this information\]
+
+
 
