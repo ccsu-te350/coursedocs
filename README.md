@@ -58,6 +58,8 @@ description: >-
 
 [Week 8 - Class content](week-8-class-content.md)
 
+[Week 9 - Class content](week-9-class-content.md)
+
 ## ccsuteched
 
 [![Join the chat at https://gitter.im/ccsuteched/community](https://badges.gitter.im/ccsuteched/community.svg)](https://gitter.im/ccsuteched/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
