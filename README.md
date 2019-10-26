@@ -60,6 +60,8 @@ description: >-
 
 [Week 9 - Class content](week-9-class-content.md)
 
+[Week 9 - Assignment](week-9-assignment-prep-for-midterm-paper.md) - prepare for Monday, 10/28/19 & paper due, Monday, 11/4/19
+
 ## ccsuteched
 
 [![Join the chat at https://gitter.im/ccsuteched/community](https://badges.gitter.im/ccsuteched/community.svg)](https://gitter.im/ccsuteched/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
