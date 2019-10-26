@@ -8,7 +8,10 @@ Wing, J. \(2006\). Computational thinking. Communications of the ACM, 49\(3\), 3
 
 ### Quick Views: 
 
-What are the 4 components of Computational Thinking identified as being covered by ISTE?
+What are the 4 components of Computational Thinking identified as being covered by ISTE? 2 videos:
+
+* [I](https://youtu.be/QRIgc5XzApQ)[ntro to CT for Every Educator by ISTE](https://youtu.be/QRIgc5XzApQ) 
+* [Computational Thinking: What is it, how should it be used?](https://youtu.be/qbnTZCj0ugI)
 
 {% embed url="https://youtu.be/QRIgc5XzApQ" %}
 
