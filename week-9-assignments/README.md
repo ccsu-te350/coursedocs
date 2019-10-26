@@ -6,5 +6,5 @@
   * [Preparation for Mid-term project / Class results](week-9-assignment-prep-for-midterm-paper.md)
   * [Introduction to computational thinking](week-9-assignment-intro-to-computational-thinking.md)
   * [Introduction to Javascript coding](week-9-assignment-javascript-intro.md)
-* Paper [**Due Monday, November 4, 2019**](week-9-assignment-prep-for-midterm-paper.md)  **\(up to 8 points\) - citations work will be done in class on Monday, 10/28/19**
+* Don't forget the paper **due Monday, November 4, 2019  \(up to 8 points\) - citations work will be done in class on Monday, 10/28/19. See class preparations for Monday for details on the paper \(or the syllabus or last week's slides / in class presentation\).**
 
