@@ -60,7 +60,7 @@ description: >-
 
 [Week 9 - Class content](week-9-class-content.md)
 
-[Week 9 - Assignment](week-9-assignments/week-9-assignment-prep-for-midterm-paper.md) - prepare for Monday, 10/28/19 & paper due, Monday, 11/4/19
+[Week 9 - Assignment](week-9-assignments/week-9-assignment-prep-for-midterm-paper.md)[s](week-9-assignments/) - prepare for Monday, 10/28/19 & paper due, Monday, 11/4/19
 
 ## ccsuteched
 
