@@ -1,6 +1,6 @@
-# Week 9 - Assignment - Prep for midterm paper
+# Week 9 - Assignment - Prep for Class / Mid-term project
 
-Paper preparations. Search & find at least 3 scholarly articles that you will use to support your short paper assignment, due Monday, November 8**.** 
+Paper preparations. Search & find at least 3 scholarly articles that you will use to support your short paper assignment which is due Monday, November 8**.** 
 
 **Bring the information you have about those articles to class on Monday, 10/28/19.** Additionally, make a list of any challenges you are having with research for the paper to Monday's class. You will be "workshopping" how to cite your sources and use the library for research in preparation for this project. 
 

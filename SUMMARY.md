@@ -25,5 +25,10 @@
 * [Week 7 - Readings & Class Preparation for Week 8 & Midterms](week-7-readings-class-preparation-for-week-8-and-midterms.md)
 * [Week 8 - Class content](week-8-class-content.md)
 * [Week 9 - Class Content](week-9-class-content.md)
-* [Week 9 - Assignment - Prep for midterm paper](week-9-assignment-prep-for-midterm-paper.md)
+* [Week 9 Assignments](week-9-assignments/README.md)
+  * [Week 9 - Assignment - Prep for Class / Mid-term project](week-9-assignments/week-9-assignment-prep-for-midterm-paper.md)
+  * [Week 9 - Due 10/30/19](week-9-assignments/week-9-due-10-30-19.md)
+  * [Week 9 Assignment - Intro to Computational Thinking](week-9-assignments/week-9-assignment-intro-to-computational-thinking.md)
+  * [Week 9 Assignment - Javascript Intro](week-9-assignments/week-9-assignment-javascript-intro.md)
+* [Untitled](untitled-1.md)
 
