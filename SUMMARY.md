@@ -25,4 +25,5 @@
 * [Week 7 - Readings & Class Preparation for Week 8 & Midterms](week-7-readings-class-preparation-for-week-8-and-midterms.md)
 * [Week 8 - Class content](week-8-class-content.md)
 * [Week 9 - Class Content](week-9-class-content.md)
+* [Week 9 - Assignment - Prep for midterm paper](week-9-assignment-prep-for-midterm-paper.md)
 
