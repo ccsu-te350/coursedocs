@@ -30,4 +30,5 @@
   * [Week 9 - Due 10/30/19](week-9-assignments/week-9-due-10-30-19.md)
   * [Week 9 Assignment - Intro to Computational Thinking](week-9-assignments/week-9-assignment-intro-to-computational-thinking.md)
   * [Week 9 Assignment - Javascript Intro](week-9-assignments/week-9-assignment-javascript-intro.md)
+* [Week 10 - Class content](week-10-class-content.md)
 
