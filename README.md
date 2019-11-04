@@ -66,6 +66,8 @@ description: >-
 
 [Week 10 - Class content](week-10-class-content.md)
 
+[Week 10 - Assignments](week-10-assignments.md)
+
 [Week 11 - Class content](week-11-class-content.md)
 
 ## ccsuteched
