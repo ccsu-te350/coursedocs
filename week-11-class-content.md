@@ -4,7 +4,8 @@ description: Working in Javascript
 
 # Week 11 - Class content
 
-* Monday, 11/4/19 - [Slides on: Javascript - ](https://docs.google.com/presentation/d/1dJHlbFOL9WUZmuFCrDPas8rd1azDxqxO08sbMvAj2VY/edit?usp=sharing)[Setting & working with Variables / Bindings](https://docs.google.com/presentation/d/1dJHlbFOL9WUZmuFCrDPas8rd1azDxqxO08sbMvAj2VY/edit?usp=sharing)
+* Monday, 11/4/19 - [Slides on Javascript - ](https://docs.google.com/presentation/d/1dJHlbFOL9WUZmuFCrDPas8rd1azDxqxO08sbMvAj2VY/edit?usp=sharing)[Setting & working with Variables / Bindings](https://docs.google.com/presentation/d/1dJHlbFOL9WUZmuFCrDPas8rd1azDxqxO08sbMvAj2VY/edit?usp=sharing)
+* Wednesday, 11/6/19 - [Slides on Javascript: Operators, Conditionals & Loops](https://docs.google.com/presentation/d/1QXUzmX6onRkF6Q0MMXwZ1_5qrs5tUsmjrPHXm4GCDY0/edit?usp=sharing)
 * **Work from / References \(Read & Use\):**
   * Github Repository at [https://github.com/ccsu-te350/Wk11-JS-buttonNamePrompt](https://github.com/ccsu-te350/Wk11-JS-buttonNamePrompt)
   * Storing the Information you need - Variables - [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First\_steps/Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
