@@ -20,6 +20,7 @@ description: Working in Javascript
   * Looping code:
     * [Instructor's notes version](https://docs.google.com/document/d/1cZ1KV5jwL_sDtjylwDS9yAy8G3fvoMdDtg_YYgph-_0/edit?usp=sharing) \(from MDN, with some code refactored & added to\)
     * MDN Learn Looping Code \(Javascript Building Blocks\) page - [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building\_blocks/Looping\_code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
-
-
+* The W3Schools’ training on Javascript \(taken with grain of salt, due to older style variable declaration, but still helpful because of easy ways of testing / learning on topics\):
+  * * For Loop practice:[ https://www.w3schools.com/js/js\_loop\_for.asp](https://www.w3schools.com/js/js_loop_for.asp)
+    * While Loop practice:[https://www.w3schools.com/js/js\_loop\_while.asp](https://www.w3schools.com/js/js_loop_while.asp)
 
