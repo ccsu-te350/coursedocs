@@ -70,6 +70,10 @@ description: >-
 
 [Week 11 - Class content](week-11-class-content.md)
 
+[Week 11 - Assignment](week-11-assignments.md) \(due Wed., 11/13/19\)
+
+[Week 12 - Preview](week-12-preview.md)
+
 ## ccsuteched
 
 [![Join the chat at https://gitter.im/ccsuteched/community](https://badges.gitter.im/ccsuteched/community.svg)](https://gitter.im/ccsuteched/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)

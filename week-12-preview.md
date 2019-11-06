@@ -1,4 +1,4 @@
-# Week 12 Preview
+# Week 12 - Preview
 
 Since several of you will be unavailable next week, I wanted to offer you enough information so that you can keep up while out of the classroom. Probably our assignments will include components of JS, Scratch, and mostly work on progress towards your final projects. 
 
