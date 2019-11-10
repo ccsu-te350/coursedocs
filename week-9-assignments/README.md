@@ -1,4 +1,4 @@
-# Week 9 Assignments
+# Week 9 - Assignments
 
 * \*\*\*\*[**Preparation for class Monday, 10/28/19**](week-9-assignment-prep-for-midterm-paper.md)\*\*\*\*
 * **What is** [**Due 10/30/19**](week-9-due-10-30-19.md) \(assessing the Read / Watch / Do & Monday, 10/28/19 class\)

@@ -1,4 +1,4 @@
-# Week 7 - Assignment Exercise
+# Week 7 - Assignments
 
 ## Wee**k 7: HTML/CSS - Going Deeper into CSS & Its Application to HTML** 
 
