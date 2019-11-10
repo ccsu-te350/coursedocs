@@ -6,7 +6,7 @@ Install git scm software & configure for first time \(see reference: [https://gi
 
 1a. Configure your git user.name & user.email
 
-```
+```text
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 ```
