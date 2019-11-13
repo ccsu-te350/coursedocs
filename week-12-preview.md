@@ -12,10 +12,11 @@ Some of the documentation I offer may need to be updated.
 Feel free to take that on for extra credit._
 
 * **Reading the article about why Scratch matters to educators found at**[ **\(discussion on Wed., 11/13/19\) http://web.media.mit.edu/~mres/papers/Scratch-CACM-final.pdf**](http://web.media.mit.edu/~mres/papers/Scratch-CACM-final.pdf)\*\*\*\*
-* Slides for 11/11/19: [https://docs.google.com/presentation/d/1WWEpLEAjIfwMq7aLMseNyD9KrDOTxwN\_RTu7YhOoaS8/edit?usp=sharing](https://docs.google.com/presentation/d/1WWEpLEAjIfwMq7aLMseNyD9KrDOTxwN_RTu7YhOoaS8/edit?usp=sharing)
+* Slides for Week 12 \(11/11  & 11/13\): [https://docs.google.com/presentation/d/1WWEpLEAjIfwMq7aLMseNyD9KrDOTxwN\_RTu7YhOoaS8/edit?usp=sharing](https://docs.google.com/presentation/d/1WWEpLEAjIfwMq7aLMseNyD9KrDOTxwN_RTu7YhOoaS8/edit?usp=sharing)
 * [Scratch "Getting Started" worksheet](https://docs.google.com/document/d/1C8TBoL7RPL_CY3HsXlxLR011Y8rq0CVhPO0bieiD0E4/edit?usp=sharing) - handed out in class 11/11/19
 * [Introduction to Scratch 3.0](https://docs.google.com/document/d/1qi4UM3DeXpdPZtB1ElkvYrksSsSqtBN6dnHxwZy7U8E/edit?usp=sharing) \(beginning rework of Young Engineers' Program documentation, refactored for Scratch 3.0\) 
-* [Scratch recipe cards for 3.0 All Recipes](https://resources.scratch.mit.edu/www/cards/en/scratch-cards-all.pdf):
+* [Scratch recipe cards for 3.0 All Recipes](https://resources.scratch.mit.edu/www/cards/en/scratch-cards-all.pdf) \(1 large pdf, all Scratch cards\)
+  * Scratch recipes -[ individual recipe cards' pdfs in a Google Drive folder](https://drive.google.com/open?id=1mTA_CakRedallwEvfHp26r3mzD5fKcvO)
 
 Finally, you may want to start playing with Scratch from an instructor’s p.o.v., by exploring the Educators’ / Scratch in Practice sites:[ https://scratch.mit.edu/educators/](https://scratch.mit.edu/educators/)
 
