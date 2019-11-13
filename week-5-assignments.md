@@ -9,7 +9,7 @@
 ### **Listen to \(Audio / Podcasts\):**
 
 * TED Radio Hour - “Open Source World” - [https://www.npr.org/programs/ted-radio-hour/449179937/open-source-world](https://www.npr.org/programs/ted-radio-hour/449179937/open-source-world) \(00:48:07\)
-* Command Line Heroes, Operating System Wars, Parts 1 & 2 \[from Season 1\] - [https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1) \(00:28:57\) & [https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux) \(00:27:38\)
+* Command Line Heroes, Operating System Wars, Parts 1 & 2 \[from Season 1\] - [https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1) \(00:28:57\) & [https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux) \(00:27:38\) 
 
 ### **Watch \(Videos\):**
 
@@ -31,6 +31,8 @@
 
 **HTML Exercises should cover at least** \(see: [https://www.w3schools.com/html/html\_basic.asp](https://www.w3schools.com/html/html_basic.asp)\)
 
+* TED Radio Hour - “Open Source World” - [https://www.npr.org/programs/ted-radio-hour/449179937/open-source-world](https://www.npr.org/programs/ted-radio-hour/449179937/open-source-world)
+* Command Line Heroes, Operating System Wars, Parts 1 & 2 - [https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-1) & [https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux ](https://www.redhat.com/en/command-line-heroes/season-1/os-wars-part-2-rise-of-linux)
 * Add headings &lt;h1&gt;&lt;h2&gt;&lt;h3&gt;&lt;h4&gt;&lt;h5&gt;&lt;h6&gt;
 * Add hyperlinks &lt;a href=”xxxxxxx”&gt;&lt;/a&gt;
 * Add images &lt;img src=”xxxxx” alt=”alt text for screen readers” width=”x” height=”x”&gt;
