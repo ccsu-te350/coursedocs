@@ -1,4 +1,4 @@
-# Week 12 - Scratch
+# Week 12 - Class content \(Scratch\)
 
 **WHAT WE WILL COVER DURING THE WEEK OF 11/11  & 11/13**
 
