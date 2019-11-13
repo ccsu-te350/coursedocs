@@ -72,7 +72,9 @@ description: >-
 
 [Week 11 - Assignment](week-11-assignments.md) \(due Wed., 11/13/19\)
 
-[Week 12 - Preview](week-12-preview.md)
+[Week 12 - Class content \(Scratch\)](week-12-preview.md)
+
+[Week 12 - Assignments](week-12-assignments.md) \(due Wed., 11/20/19\)
 
 ## ccsuteched
 
