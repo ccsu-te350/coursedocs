@@ -36,4 +36,5 @@
 * [Week 11 - Assignments](week-11-assignments.md)
 * [Week 12 - Class content \(Scratch\)](week-12-preview.md)
 * [Week 12 - Assignments](week-12-assignments.md)
+* [Week 13 - Class content](week-13-class-content.md)
 
