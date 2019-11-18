@@ -76,6 +76,8 @@ description: >-
 
 [Week 12 - Assignments](week-12-assignments.md) \(due Wed., 11/20/19\)
 
+[Week 13 - Class content](week-13-class-content.md) \(Functions\)
+
 ## ccsuteched
 
 [![Join the chat at https://gitter.im/ccsuteched/community](https://badges.gitter.im/ccsuteched/community.svg)](https://gitter.im/ccsuteched/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
