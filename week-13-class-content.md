@@ -6,9 +6,9 @@ description: Scratch & Functions
 
 ### Scratch, Functions & Putting it All Together
 
-**Slides:** [**Monday, 11/18/19**](https://docs.google.com/presentation/d/1Ke5mG6dyWMtV1iDtfDYQ-zmvYNMYXMr-R-S9IQsNaLU/edit?usp=sharing)\*\*\*\*
+**Slides:** [**Monday, 11/18/19**](https://docs.google.com/presentation/d/1Ke5mG6dyWMtV1iDtfDYQ-zmvYNMYXMr-R-S9IQsNaLU/edit?usp=sharing) **\(Functions in Scratch\)**
 
-**Slides: Wednesday, 11/20/19 \(Functions & Objects in Javascript\)**
+**Slides:** [**Wednesday, 11/20/19**](https://docs.google.com/presentation/d/1JvewwAZVfLeu5l-LPtY8r1MbgQ0zo4vSalm7Smqcd0s/edit?usp=sharing) **\(Functions & Objects in Javascript\)**
 
 **References \(to view, read & practice with\):**
 
