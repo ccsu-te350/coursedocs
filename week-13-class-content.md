@@ -22,12 +22,25 @@ description: Scratch & Functions
   * [https://en.scratch-wiki.info/wiki/My\_Blocks](https://en.scratch-wiki.info/wiki/My_Blocks) - Functions / My Blocks
   * [https://en.scratch-wiki.info/wiki/List](https://en.scratch-wiki.info/wiki/List) - Lists / Arrays
   * [https://en.scratch-wiki.info/wiki/Broadcast](https://en.scratch-wiki.info/wiki/Broadcast) - Broadcast \(allow you to send signals / create interactions one sprite to another\)
+* Javascript Functions & Objects:
+  * [https://www.learn-js.org/en/Functions](https://www.learn-js.org/en/Functions) 
+  * [https://www.learn-js.org/en/Objects](https://www.learn-js.org/en/Objects) 
+  * MDN Learn Functions Introduction - [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building\_blocks/Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions) 
+  * MDN Learn Functions Reference - [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
+  * W3 Schools - JavaScript Functions - [https://www.w3schools.com/js/js\_functions.asp](https://www.w3schools.com/js/js_functions.asp) 
+  * W3 Schools - Javascript Objects - [https://www.w3schools.com/js/js\_objects.asp](https://www.w3schools.com/js/js_objects.asp) 
+  * Eloquent Javascript - CC-licensed ebook - [https://eloquentjavascript.net/Eloquent\_JavaScript.pdf](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) 
 
-**To Do \(In class\):**
+**To Do \(In class - 11/18/19\):**
 
 * Create a new Scratch Project in which the primary sprite interacts with you - gets your name & greets you using this \[Sensing blocks / Variables\]
 * In the same or another new Scratch Project, have your primary sprite draw a square \[Adding Pen Extension\]. Start with as many lines of codes as necessary. Then use looping to reduce the number of lines of code. Then refactor once again by turning the code into a function block and calling the function block. \[Looping / conditionals, functions\]
 * Create a second sprite, create an interaction where the end of the drawing makes the 2nd sprite dance \[Broadcasting & receiving messages among sprites\]
 * Save your projects & Share them
 * Copy the link to your shared projects & send them to me
+
+### Watch / Learn \(Javascript Functions & Objects\):
+
+* [Javascript Functions](https://youtu.be/Tvu1FqhOUrQ) \(YouTube\)
+* [Javascript Objects](https://youtu.be/4uVwGw317QM) \(YouTube\)
 
