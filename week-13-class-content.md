@@ -8,6 +8,8 @@ description: Scratch & Functions
 
 **Slides:** [**Monday, 11/18/19**](https://docs.google.com/presentation/d/1Ke5mG6dyWMtV1iDtfDYQ-zmvYNMYXMr-R-S9IQsNaLU/edit?usp=sharing)\*\*\*\*
 
+**Slides: Wednesday, 11/20/19 \(Functions & Objects in Javascript\)**
+
 **References \(to view, read & practice with\):**
 
 * Code.org Functions & Procedures video: [https://youtu.be/yPWQfa4CHbw](https://youtu.be/yPWQfa4CHbw) “CS Principles: Defining and Calling Functions”
