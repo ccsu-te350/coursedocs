@@ -76,7 +76,9 @@ description: >-
 
 [Week 12 - Assignments](week-12-assignments.md) \(due Wed., 11/20/19\)
 
-[Week 13 - Class content](week-13-class-content.md) \(Functions\)
+[Week 13 - Class content](week-13-class-content.md) \(Functions & Objects, Javascript\)
+
+[Week 14 - Class content](week-14-class-content.md) \(Python programming\)
 
 ## ccsuteched
 
