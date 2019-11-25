@@ -19,7 +19,7 @@
 * [Week 5 - Class content](week-5-class-content.md)
 * [Week 5 - Assignments](week-5-assignments.md)
 * [Week 6 - Class content](week-6-class-content.md)
-* [Week 6 - Assignments](untitled.md)
+* [Week 6 - Assignments](week-6-assignments.md)
 * [Week 7 - Class content](week-7-class-content.md)
 * [Week 7 - Assignments](week-7-assignment.md)
 * [Week 7 - Readings & Class Preparation for Week 8 & Midterms](week-7-readings-class-preparation-for-week-8-and-midterms.md)

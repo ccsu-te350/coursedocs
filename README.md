@@ -48,7 +48,7 @@ description: >-
 
 [Week 6 - Class content](week-6-class-content.md)
 
-[Week 6 - Assignments](untitled.md)
+[Week 6 - Assignments](week-6-assignments.md)
 
 [Week 7 - Class content](week-7-class-content.md)
 
