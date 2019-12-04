@@ -80,6 +80,12 @@ description: >-
 
 [Week 14 - Class content](week-14-class-content.md) \(Python programming\)
 
+[Week 15 - Final week](week-15-final-week-plans.md)
+
+[Final Project](final-project.md)
+
+
+
 ## ccsuteched
 
 [![Join the chat at https://gitter.im/ccsuteched/community](https://badges.gitter.im/ccsuteched/community.svg)](https://gitter.im/ccsuteched/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
