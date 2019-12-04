@@ -39,4 +39,5 @@
 * [Week 13 - Class content](week-13-class-content.md)
 * [Week 14 - Class Content](week-14-class-content.md)
 * [Week 15 - Final Week Plans](week-15-final-week-plans.md)
+* [Final Project](final-project.md)
 
