@@ -166,7 +166,9 @@ There will be many points of self-assessment & a number of summative assessments
       </td>
     </tr>
   </tbody>
-</table>| **You can earn Extra credits:** |  |
+</table>
+
+| **You can earn Extra credits:** |  |
 | :--- | :--- |
 |  | **up to 3 or up to 5 points per option, but cannot make up more than 5 points of your grade** |
 | **Hour of Code volunteer with CS club** | **up to 3 points if verified** |
